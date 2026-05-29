@@ -15,8 +15,7 @@ Step 3: Apply the lu() function to decompose matrix A into P, L, and U matrices.
 Step 4: Display the lower triangular matrix L and upper triangular matrix U.
 
 Step 5: Stop the program.
-## Program:
-(i) To find the L and U matrix
+
 ## Program:
 (i) To find the L and U matrix.
 ```
